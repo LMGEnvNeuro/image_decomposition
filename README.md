@@ -17,4 +17,6 @@ Published:
 
 * Count_Colors_variableDup - function to qualtify colours on the images. Created by Carlos Cassanello. 
 
-* fractal_analysis - function conducting fractal analysis of the image using boxcounting with either binary or differential method. Created by IMS. Method as used in Nature_gradient & ARCH studies.  
+* fractal_analysis - function conducting fractal analysis of the image using boxcounting with either binary or differential method. Created by IMS. Method as used in: 
+Nature_gradient (https://doi.org/10.3389/fpsyg.2022.932507)
+& ARCH studies (in preparation)  
