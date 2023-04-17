@@ -9,7 +9,7 @@ for image in {1..288}; do
           --cpus-per-task 1 \
           --mem 32gb \
           --time 24:00:00 \
-          --output /home/mpib/sztuka/logs/NG-dec-${image}-%j.log \
+          --output ~/logs/NG-dec-${image}-%j.log \
           --workdir . \
           --wrap ". /etc/profile ; module load matlab/R2020a; matlab -nodisplay -r \"llf_classifier_trial(${image})\""
 done
