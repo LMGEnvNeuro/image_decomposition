@@ -5,7 +5,7 @@ path_to_images = '~/Desktop/Kira/';
 path_to_results = '~/Desktop/';
 
 % !! Where is the boxcount.m script file & add it as path:
-pathtoolbox = '/Users/sztuka/Desktop/Nature_Gradient_Data/NG_tardis_llf/toolbox/';
+pathtoolbox = '/Users/xxx/Desktop/Nature_Gradient_Data/NG_tardis_llf/toolbox/';
 addpath(genpath(pathtoolbox))
 % Count the images and extract names:
 img_dr      = dir(path_to_images);  % directory list for labelled folders
