@@ -18,10 +18,6 @@ function [ avFeatsNofix, extraData ] = WholeIm_Decomposer_cc_ims( image_copy )
 % ==============================
 
 addpath('toolbox/CircStat2012a/');
-%addpath('/Users/cassanello/Documents/interiorDesign+fractalDimension/ImageDecomposer/CircStat2012a');
-
-
-%names = dir([Folder_Address,'*.jpg']); %dir(Folder_Address);
 
 Hue=[];
 Sat=[];
@@ -159,5 +155,5 @@ elseif s3 == 1
     avFeatsNofix = [ED, ED0, EDLog, EDLogFT, Lum, sdBright, Entropyy, EDlev, EDLoglev];
 end
 end
-    %save avFeatsNofix avFeatsNofix % this saves a matlab file with the table but can be commented out
+    
 
