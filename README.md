@@ -12,9 +12,8 @@
 
 ## Publication
 
-- Title:
-- Journal: [in submission]
-- DOI or Link: 
+- Sztuka, I. M., & Kühn, S. Blue Skies: Does Visual Composition of Sky Guide Subjective Judgments of Naturalness in the Environment?. Available at SSRN: https://ssrn.com/abstract=4741220 or http://dx.doi.org/10.2139/ssrn.4741220
+- Sztuka, I. M., Becker, M. & Kühn, S. Neural representations underlying psychological responses to natural and artificial features in indoor architecture. (in review, Journal for Environmental Psychology)
 
 ## Table of Contents
 
